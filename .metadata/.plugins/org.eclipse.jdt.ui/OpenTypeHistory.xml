@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=project-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.axis.projectservice.service{ProjectService.java[ProjectService" modifiers="513" timestamp="1674297084000"/>
+    <typeInfo handle="=employee-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.axis.employeeservice.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1673184436000"/>
+    <typeInfo handle="=flowchart-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.axis.flowchartservice.service{FlowchartService.java[FlowchartService" modifiers="513" timestamp="1675073012582"/>
+</typeInfoHistroy>
